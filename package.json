@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+    "appUUID": "d8155452-f514-4137-98c1-924eed0cb873",
+    "appType": "clockface",
+    "appDisplayName": "RoksbotTime",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "RoksbotTime"
+      }
+    }
+  }
+}

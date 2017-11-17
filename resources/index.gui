@@ -1,0 +1,4 @@
+<svg class="background">
+  <image x="0" y="0" width="348" height="250" href="RoboCat.png" />
+  <text id="timeLabel" />
+</svg>
